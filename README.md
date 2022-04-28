@@ -1,6 +1,6 @@
 ## Welcome Message 
 
-👋 My name is Nhung, I can go by Nina.
+👋 My name is Nhung, you can call me Nina.
 
 😄 I'm a passionate CS student at SJSU. 
 
