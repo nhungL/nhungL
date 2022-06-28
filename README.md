@@ -12,8 +12,8 @@
 
 ⚡ Skills:
  
-* Languages: Python, SQL, Java, JavaScript
-* Web Development: HTML, CSS, Material UI, React, MongoDB, NodeJS, Figma
+* Languages: Python, SQL, Java, JavaScript, Typescript
+* Web Development: HTML, CSS, Material UI, React, MongoDB, NodeJS, Figma, NextJS, XState
 * Data Science: NumPy, Pandas, Matplotlib, Seaborn, Plotly, Scikit-learn, Tableau, Docker
 * Others: Linux/Unix, Agile Methodologies, SQLite, Jupyter Notebook, VS Code, AWS, Git
 
