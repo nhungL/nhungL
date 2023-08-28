@@ -2,8 +2,7 @@
 
 👋 This is Nhung, and I can go by Nina.
 
-![image](https://github.com/nhungL/nhungL/assets/73518386/aa7e10d1-3842-4605-a3ff-58904700161b)
- Pursuing MS in Data Science at Rice University. 
+📚 Pursuing MS in Data Science at Rice University. 
 
 👀 I'm actively seeking Data Science and Software Engineering internships and full-time roles. I would love to be part of a team where I can contribute to building, maintaining, and enhancing applications. A place where I can learn from the experts and take on practical challenges head-on.
 
