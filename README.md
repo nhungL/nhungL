@@ -1,14 +1,15 @@
 ## Welcome Message 
 
-👋 My name is Nhung, you can call me Nina.
+👋 This is Nhung, and I can go by Nina.
 
-😄 I'm a passionate CS student at SJSU. 
+![image](https://github.com/nhungL/nhungL/assets/73518386/aa7e10d1-3842-4605-a3ff-58904700161b)
+ Pursuing MS in Data Science at Rice University. 
 
-👀 I’m interested in SWE internships and full-time opportunities where I can build and maintain application. A place where I can learn from the experts and have more real-life experiences as a software developer.
+👀 I'm actively seeking Data Science and Software Engineering internships and full-time roles. I would love to be part of a team where I can contribute to building, maintaining, and enhancing applications. A place where I can learn from the experts and take on practical challenges head-on.
 
-👩‍💻 Full-stack software engineer intern at [Vidbase](https://www.linkedin.com/company/vidbase/). 
+👩‍💻 Was a full-stack software engineer intern at [Vidbase](https://www.linkedin.com/company/vidbase/). 
 
-🌱 I'm open to new ideas, eager to learn more, and love to collaborate with people!
+🌱 I have an open mindset, a strong desire for continuous learning, and a genuine enthusiasm for collaborative teamwork!
 
 ⚡ Skills:
  
