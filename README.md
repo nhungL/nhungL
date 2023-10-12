@@ -12,10 +12,10 @@
 
 ⚡ Skills:
  
-* Languages: Python, SQL, Java, JavaScript, Typescript
-* Web Development: HTML, CSS, Material UI, React, MongoDB, NodeJS, Figma, NextJS, XState
-* Data Science: NumPy, Pandas, Matplotlib, Seaborn, Plotly, Scikit-learn, Tableau, Docker
-* Others: Linux/Unix, Agile Methodologies, SQLite, Jupyter Notebook, VS Code, AWS, Git
+* LANGUAGES: Python, SQL, Java, JavaScript, TypeScript
+* WEB DEVELOPMENT: React, Redux, NextJS, NodeJS, Spring, Hibernate, MongoDB, Cassandra, PostgreSQL, GraphQL, XState, Mockito, JUnit
+* DATA SCIENCE: NumPy, Pandas, Matplotlib, Seaborn, Plotly, ScikitLearn, Tableau
+* OTHERS: Google Cloud Platform (GCP), Linux/Unix, Agile, SQLite, Git, Docker
 
 📫 Let's connect through:
 * [LinkedIn](https://www.linkedin.com/in/nhungluong/)
