@@ -13,7 +13,10 @@
 ⚡ Skills:
  
 * LANGUAGES: Python, SQL, Java, JavaScript, TypeScript
-* WEB DEVELOPMENT: React, Redux, NextJS, NodeJS, Spring, Hibernate, MongoDB, Cassandra, PostgreSQL, GraphQL, XState, Mockito, JUnit
+* WEB DEVELOPMENT:
+  - React, Redux, NextJS, NodeJS, Spring, Hibernate, GraphQL, XState
+  - Database: MongoDB, Cassandra, PostgreSQL
+  - Testing: Mockito, JUnit
 * DATA SCIENCE: NumPy, Pandas, Matplotlib, Seaborn, Plotly, ScikitLearn, Tableau
 * OTHERS: Google Cloud Platform (GCP), Linux/Unix, Agile, SQLite, Git, Docker
 
