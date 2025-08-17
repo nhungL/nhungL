@@ -7,7 +7,7 @@
 👀 I'm actively seeking Data Science and Software Engineering internships and full-time roles. I would love to be part of a team where I can contribute to building, maintaining, and enhancing applications. A place where I can learn from the experts and take on practical challenges head-on.
 
 👩‍💻 Full-stack software engineer intern at [Vidbase](https://www.linkedin.com/company/vidbase/). 
-👩‍💻 Full-stack data scientist intern at [BroadVail Capital Partners](https://www.linkedin.com/company/broadvail-capital-partners-llc/)
+👩‍💻 Data scientist intern at [BroadVail Capital Partners](https://www.linkedin.com/company/broadvail-capital-partners-llc/)
 
 🌱 I have an open mindset, a strong desire for continuous learning, and a genuine enthusiasm for collaborative teamwork!
 
