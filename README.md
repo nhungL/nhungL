@@ -2,25 +2,17 @@
 
 👋 This is Nhung, and I can go by Nina.
 
-📚 Pursuing MS in Data Science at Rice University. 
+📚 BS in Computer Science at SJSU + Pursuing MS in Data Science at Rice. 
 
-👀 I'm actively seeking Data Science and Software Engineering internships and full-time roles. I would love to be part of a team where I can contribute to building, maintaining, and enhancing applications. A place where I can learn from the experts and take on practical challenges head-on.
+👀 Love to build cool thing!
 
-👩‍💻 Full-stack software engineer intern at [Vidbase](https://www.linkedin.com/company/vidbase/). 
+👩‍💻 [Current] Software Engineer at [Nclusion](https://www.linkedin.com/company/nclusion-inc/).
 
 👩‍💻 Data scientist intern at [BroadVail Capital Partners](https://www.linkedin.com/company/broadvail-capital-partners-llc/).
 
-🌱 I have an open mindset, a strong desire for continuous learning, and a genuine enthusiasm for collaborative teamwork!
+👩‍💻 Full-stack software engineer intern at [Vidbase](https://www.linkedin.com/company/vidbase/). 
 
-⚡ Skills:
- 
-* LANGUAGES: Python, SQL, Java, JavaScript, TypeScript
-* WEB DEVELOPMENT:
-  - React, Redux, NextJS, NodeJS, Spring, Hibernate, GraphQL, XState
-  - Database: MongoDB, Cassandra, PostgreSQL
-  - Testing: Mockito, JUnit
-* DATA SCIENCE: NumPy, Pandas, Matplotlib, Seaborn, Plotly, ScikitLearn, Tableau
-* OTHERS: Google Cloud Platform (GCP), Linux/Unix, Agile, SQLite, Git, Docker
+🌱 I have an open mindset, a strong desire for continuous learning, and a genuine enthusiasm for collaborative teamwork!
 
 📫 Let's connect through:
 * [LinkedIn](https://www.linkedin.com/in/nhungluong/)
