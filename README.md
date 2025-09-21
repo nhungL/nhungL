@@ -1,18 +1,17 @@
 ## Welcome Message 
 
-👋 This is Nhung, and I can go by Nina.
+🙋🏻‍♀️ This is Nhung, and I can go by Nina. 
 
-📚 BS in Computer Science at SJSU + Pursuing MS in Data Science at Rice. 
+🔭 [Current] Software Engineer - Building cool things at [Nclusion](https://www.linkedin.com/company/nclusion-inc/).
 
-👀 Love to build cool thing!
-
-👩‍💻 [Current] Software Engineer at [Nclusion](https://www.linkedin.com/company/nclusion-inc/).
+📚 MS in Data Science at Rice & BS in Computer Science at SJSU
 
 👩‍💻 Data scientist intern at [BroadVail Capital Partners](https://www.linkedin.com/company/broadvail-capital-partners-llc/).
 
 👩‍💻 Full-stack software engineer intern at [Vidbase](https://www.linkedin.com/company/vidbase/). 
 
 🌱 I have an open mindset, a strong desire for continuous learning, and a genuine enthusiasm for collaborative teamwork!
+
 
 📫 Let's connect through:
 * [LinkedIn](https://www.linkedin.com/in/nhungluong/)
